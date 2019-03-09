@@ -1,6 +1,6 @@
 # January-2019-April-2019
 Academic Projects &amp; Study Notes
 
-Keywords for programs:
+Please switch "Branch" to check Projects description and Source Code
 
-jQuery | SASS | Knockout | React | Angular
+  Click "Wiki" to  view Notes
